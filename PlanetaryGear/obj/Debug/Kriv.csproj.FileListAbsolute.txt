@@ -1,0 +1,25 @@
+D:\3 курс 1 семестр 3D\лабы\Kriv\Kriv\bin\Debug\Kriv.exe.config
+D:\3 курс 1 семестр 3D\лабы\Kriv\Kriv\bin\Debug\Kriv.exe
+D:\3 курс 1 семестр 3D\лабы\Kriv\Kriv\bin\Debug\Kriv.pdb
+D:\3 курс 1 семестр 3D\лабы\Kriv\Kriv\obj\Debug\Kriv.Form1.resources
+D:\3 курс 1 семестр 3D\лабы\Kriv\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+D:\3 курс 1 семестр 3D\лабы\Kriv\Kriv\obj\Debug\Kriv.csproj.GenerateResource.Cache
+D:\3 курс 1 семестр 3D\лабы\Kriv\Kriv\obj\Debug\Kriv.exe
+D:\3 курс 1 семестр 3D\лабы\Kriv\Kriv\obj\Debug\Kriv.pdb
+D:\3 курс 1 семестр 3D\лабы\Kriv\Kriv\obj\Debug\Kriv.csprojResolveAssemblyReference.cache
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\bin\Debug\Kriv.exe.config
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\bin\Debug\Kriv.exe
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\bin\Debug\Kriv.pdb
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.dll
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\bin\Debug\Microsoft.DirectX.dll
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\bin\Debug\Microsoft.DirectX.xml
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.xml
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\obj\Debug\Kriv.csprojResolveAssemblyReference.cache
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\obj\Debug\Kriv.Form1.resources
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\obj\Debug\Kriv.csproj.GenerateResource.Cache
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\obj\Debug\Kriv.csproj.CoreCompileInputs.cache
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\obj\Debug\Kriv.exe
+H:\Process\3D Графика 3 курс\PayDay\Kriv\Kriv\obj\Debug\Kriv.pdb

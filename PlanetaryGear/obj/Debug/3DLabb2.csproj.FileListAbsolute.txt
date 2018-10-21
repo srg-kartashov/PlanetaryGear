@@ -1,0 +1,126 @@
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\bin\Debug\Kriv.exe.config
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\bin\Debug\Kriv.exe
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\bin\Debug\Kriv.pdb
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.dll
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\bin\Debug\Microsoft.DirectX.dll
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\bin\Debug\Microsoft.DirectX.xml
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.xml
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\obj\Debug\Kriv.Form1.resources
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\obj\Debug\3DLabb2.csproj.GenerateResource.Cache
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\obj\Debug\3DLabb2.csproj.CoreCompileInputs.cache
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\obj\Debug\Kriv.exe
+H:\Process\3D Графика 3 курс\Лэббы\Labb2\Kriv\obj\Debug\Kriv.pdb
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\3DLabb2.csprojResolveAssemblyReference.cache
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.Form1.resources
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.Form2.resources
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.Form3.resources
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\3DLabb2.csproj.GenerateResource.Cache
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\3DLabb2.csproj.CoreCompileInputs.cache
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.exe
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.pdb
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Kriv.exe.config
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Kriv.exe
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Kriv.pdb
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.dll
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.dll
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.xml
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.xml
+H:\Process\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\3DLabb2.csprojResolveAssemblyReference.cache
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.Form1.resources
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\3DLabb2.csproj.GenerateResource.Cache
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\3DLabb2.csproj.CoreCompileInputs.cache
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.exe
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.pdb
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Kriv.exe.config
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Kriv.exe
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Kriv.pdb
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.dll
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.dll
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.xml
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.xml
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+E:\Учеба\3К_1\3D Графика 3 курс\Лэббы\Labb4\Kriv\obj\Debug\Kriv.Form2.resources
+H:\Process\Курсовая\Labb4\Kriv\bin\Debug\Kriv.exe.config
+H:\Process\Курсовая\Labb4\Kriv\bin\Debug\Kriv.exe
+H:\Process\Курсовая\Labb4\Kriv\bin\Debug\Kriv.pdb
+H:\Process\Курсовая\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.dll
+H:\Process\Курсовая\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+H:\Process\Курсовая\Labb4\Kriv\bin\Debug\Microsoft.DirectX.dll
+H:\Process\Курсовая\Labb4\Kriv\bin\Debug\Microsoft.DirectX.xml
+H:\Process\Курсовая\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.xml
+H:\Process\Курсовая\Labb4\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+H:\Process\Курсовая\Labb4\Kriv\obj\Debug\3DLabb2.csprojResolveAssemblyReference.cache
+H:\Process\Курсовая\Labb4\Kriv\obj\Debug\Kriv.Form1.resources
+H:\Process\Курсовая\Labb4\Kriv\obj\Debug\Kriv.Form2.resources
+H:\Process\Курсовая\Labb4\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+H:\Process\Курсовая\Labb4\Kriv\obj\Debug\3DLabb2.csproj.GenerateResource.Cache
+H:\Process\Курсовая\Labb4\Kriv\obj\Debug\3DLabb2.csproj.CoreCompileInputs.cache
+H:\Process\Курсовая\Labb4\Kriv\obj\Debug\Kriv.exe
+H:\Process\Курсовая\Labb4\Kriv\obj\Debug\Kriv.pdb
+C:\Users\Computer\Desktop\Курсовая\Kriv\bin\Debug\Kriv.exe.config
+C:\Users\Computer\Desktop\Курсовая\Kriv\bin\Debug\Kriv.exe
+C:\Users\Computer\Desktop\Курсовая\Kriv\bin\Debug\Kriv.pdb
+C:\Users\Computer\Desktop\Курсовая\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Computer\Desktop\Курсовая\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Computer\Desktop\Курсовая\Kriv\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Computer\Desktop\Курсовая\Kriv\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Computer\Desktop\Курсовая\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Computer\Desktop\Курсовая\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Computer\Desktop\Курсовая\Kriv\obj\Debug\3DLabb2.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Курсовая\Kriv\obj\Debug\Kriv.Form1.resources
+C:\Users\Computer\Desktop\Курсовая\Kriv\obj\Debug\Kriv.Form2.resources
+C:\Users\Computer\Desktop\Курсовая\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+C:\Users\Computer\Desktop\Курсовая\Kriv\obj\Debug\3DLabb2.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\Курсовая\Kriv\obj\Debug\3DLabb2.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Курсовая\Kriv\obj\Debug\Kriv.exe
+C:\Users\Computer\Desktop\Курсовая\Kriv\obj\Debug\Kriv.pdb
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\bin\Debug\Kriv.exe.config
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\bin\Debug\Kriv.exe
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\bin\Debug\Kriv.pdb
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\obj\Debug\3DLabb2.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\obj\Debug\Kriv.Form1.resources
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\obj\Debug\Kriv.Form2.resources
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\obj\Debug\3DLabb2.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\obj\Debug\3DLabb2.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\obj\Debug\Kriv.exe
+C:\Users\Computer\Desktop\Курсовая — копия\Kriv\obj\Debug\Kriv.pdb
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\bin\Debug\Kriv.exe.config
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.exe
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.pdb
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\bin\Debug\Kriv.exe
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\bin\Debug\Kriv.pdb
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\3DLabb2.csprojResolveAssemblyReference.cache
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.Form1.resources
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.Form2.resources
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+C:\Users\Sergey-Desktop\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\3DLabb2.csproj.GenerateResource.Cache
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\bin\Debug\Kriv.exe.config
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\bin\Debug\Kriv.exe
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\bin\Debug\Kriv.pdb
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\3DLabb2.csprojAssemblyReference.cache
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.Form1.resources
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.Form2.resources
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.Properties.Resources.resources
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\3DLabb2.csproj.GenerateResource.cache
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\3DLabb2.csproj.CoreCompileInputs.cache
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\3DLabb2.csproj.CopyComplete
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.exe
+C:\Users\Sergey-Notebook\Desktop\Курсовая — копия — копия\Kriv\obj\Debug\Kriv.pdb

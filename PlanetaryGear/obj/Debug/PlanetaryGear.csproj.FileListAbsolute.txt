@@ -1,0 +1,47 @@
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\obj\Debug\PlanetaryGear.csprojAssemblyReference.cache
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\obj\Debug\PlanetaryGear.csproj.GenerateResource.cache
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\obj\Debug\PlanetaryGear.csproj.CoreCompileInputs.cache
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\obj\Debug\PlanetaryGear.csproj.CopyComplete
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\obj\Debug\PlanetaryGear.Form1.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\obj\Debug\PlanetaryGear.FormGeometricCharacteristics.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\bin\Debug\PlanetaryGear.exe.config
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\bin\Debug\PlanetaryGear.exe
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\bin\Debug\PlanetaryGear.pdb
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\obj\Debug\PlanetaryGear.Properties.Resources.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\obj\Debug\PlanetaryGear.exe
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\Kriv\obj\Debug\PlanetaryGear.pdb
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\bin\Debug\PlanetaryGear.exe.config
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\bin\Debug\PlanetaryGear.exe
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\bin\Debug\PlanetaryGear.pdb
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.csprojAssemblyReference.cache
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.Form1.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.FormGeometricCharacteristics.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.Properties.Resources.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.csproj.GenerateResource.cache
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.csproj.CoreCompileInputs.cache
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.csproj.CopyComplete
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.exe
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.pdb
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear — копия\PlanetaryGear\obj\Debug\PlanetaryGear.FormAngularVelocity.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\bin\Debug\PlanetaryGear.exe.config
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\bin\Debug\PlanetaryGear.exe
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\bin\Debug\PlanetaryGear.pdb
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.csprojAssemblyReference.cache
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.Form1.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.FormAngularVelocity.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.FormGeometricCharacteristics.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.Properties.Resources.resources
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.csproj.GenerateResource.cache
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.csproj.CoreCompileInputs.cache
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.csproj.CopyComplete
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.exe
+C:\Users\Sergey-Notebook\Desktop\PlanetaryGear\PlanetaryGear\obj\Debug\PlanetaryGear.pdb
